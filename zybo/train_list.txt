@@ -1,0 +1,4 @@
+0 faces/person0_1.pgm
+0 faces/person0_2.pgm
+1 faces/person1_1.pgm
+...
